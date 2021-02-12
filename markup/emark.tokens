@@ -1,0 +1,35 @@
+Block=1
+BlockEnd=2
+Rows=3
+Columns=4
+Row=5
+RowEnd=6
+Column=7
+ColumnEnd=8
+Walign=9
+Halign=10
+BgColor=11
+Width=12
+Ctx=13
+Number=14
+TextColor=15
+Spacebar=16
+CloseTag=17
+OpenTag=18
+WS=19
+'<block '=1
+'</block>'=2
+'rows='=3
+'columns='=4
+'<row>'=5
+'</row>'=6
+'<column'=7
+'</column>'=8
+'walign'=9
+'halign'=10
+'bgcolor'=11
+'width'=12
+'textcolor'=15
+' '=16
+'>'=17
+'<'=18
